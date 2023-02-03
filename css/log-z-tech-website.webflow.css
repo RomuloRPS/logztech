@@ -253,6 +253,7 @@ p {
 
 .section.sign-up {
   display: block;
+  margin-bottom: -9px;
   background-color: #000;
   background-image: linear-gradient(312deg, rgba(136, 92, 156, 0.63) 6%, rgba(143, 90, 166, 0.8));
   color: #ebedf2;
@@ -923,6 +924,16 @@ p {
 
 .columns {
   display: block;
+}
+
+.image-11 {
+  padding-left: 0px;
+}
+
+.image-12 {
+  margin-bottom: -22px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 
 @media screen and (max-width: 991px) {
